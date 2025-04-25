@@ -52,9 +52,19 @@ The platform is designed to be a secure, user-friendly, and efficient tool for p
 ---
 ##  Screenshots
 
-> _Note: Codebase unavailable, but UI screenshots and documentation are preserved._
+![Home Page](screenshots/home page.png)
 
-*You can add screenshots here once available.*
+![Login Page](screenshots/login page.png)
+
+![Parent details Page](screenshots/parent details.png)
+
+![Parent registration Page](screenshots/parent registration.png)
+
+![Rating details Page](screenshots/rating details.png)
+
+![Tutors details Page](screenshots/tutors details.png)
+
+![Tutors registration  Page](screenshots/tutors registration.png)
 
 ---
 
