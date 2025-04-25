@@ -52,7 +52,7 @@ The platform is designed to be a secure, user-friendly, and efficient tool for p
 ---
 ##  Screenshots
 
-![Home Page](screenshots/home page.png)
+![Home Page](screenshots/home-page.png)
 
 ![Login Page](screenshots/login page.png)
 
