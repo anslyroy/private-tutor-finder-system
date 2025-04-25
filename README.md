@@ -54,17 +54,17 @@ The platform is designed to be a secure, user-friendly, and efficient tool for p
 
 ![Home Page](screenshots/home-page.png)
 
-![Login Page](screenshots/login page.png)
+![Login Page](screenshots/login-page.png)
 
-![Parent details Page](screenshots/parent details.png)
+![Parent details Page](screenshots/parent-details.png)
 
-![Parent registration Page](screenshots/parent registration.png)
+![Parent registration Page](screenshots/parent-registration.png)
 
-![Rating details Page](screenshots/rating details.png)
+![Rating details Page](screenshots/rating-details.png)
 
-![Tutors details Page](screenshots/tutors details.png)
+![Tutors details Page](screenshots/tutors-details.png)
 
-![Tutors registration  Page](screenshots/tutors registration.png)
+![Tutors registration  Page](screenshots/tutors-registration.png)
 
 ---
 
